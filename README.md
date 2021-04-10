@@ -1,5 +1,5 @@
-
-<a href="https://kasroudra.github.io/kascust"><img align="center" src="https://i.postimg.cc/j58kgmt6/kc.png" width="80px" height="80px" alt="KasCust"></a>
+<p align="center">
+<a href="https://kasroudra.github.io/kascust"><img src="https://i.postimg.cc/j58kgmt6/kc.png" width="80px" height="80px" alt="KasCust"></a></p>
 <h1 align="center"><u>KasCust</u></h1>
 <h2>Customize your device with root, custom rom and custom recovery!</h2>
 
